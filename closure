@@ -1,4 +1,3 @@
-;;;Copyright © 2006 Jeremy English <jhe@jeremyenglish.org>
 ;;;
 ;;;Permission to use, copy, modify, distribute, and sell this software and its
 ;;;documentation for any purpose is hereby granted without fee, provided that
@@ -8,7 +7,7 @@
 ;;;software for any purpose.  It is provided "as is" without express or
 ;;;implied warranty.
 ;;;
-;;;Created: 05-October-2006
+;;;Created: 05-October
 
 (in-package :xpm-to-gif)
 
