@@ -6,7 +6,7 @@
 ;;;software for any purpose.  It is provided "as is" without express or
 ;;;implied warranty.
 ;;;
-;;;Created: 07-October
+;;;Created: 06-October
 
 (in-package :xpm-to-gif)
 
